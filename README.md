@@ -76,5 +76,5 @@ The dataset used for this analysis includes population data from **1790 to 2020*
 
 The **US Population Analysis Dashboard** offers a comprehensive look at the demographic trends that have shaped the United States over the last two centuries. Through historical data analysis and advanced visualizations, the dashboard provides insights into periods of rapid growth, key demographic milestones, and predictions for the future.
 
-By analyzing these trends, we can gain a better understanding of how socio-economic factors influence population growth and what to expect in the coming decades.
+By analyzing these trends, we can gain a better understanding of how socio-economic factors influence population growth and what to expect in the coming decades
 
